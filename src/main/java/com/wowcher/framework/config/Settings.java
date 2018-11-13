@@ -6,7 +6,7 @@ public class Settings
 {
 
     //dev02 db connection string
-    public static Connection dev02DBConectionString;
+    public static String dev02DBConnectionString;
     //For username for all database connection
     public static String dbUserName;
     //Passwords the same for all database connections
