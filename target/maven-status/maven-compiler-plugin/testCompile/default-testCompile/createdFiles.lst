@@ -1,0 +1,4 @@
+com/ea/test/seleniumtest/LoginTest.class
+com/ea/test/pages/EmployeeList.class
+com/ea/test/pages/HomePage.class
+com/ea/test/pages/LoginPage.class
