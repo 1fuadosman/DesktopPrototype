@@ -3,11 +3,13 @@ package com.wowcher.framework.seleniumtest;
 import com.wowcher.framework.base.BrowserType;
 import com.wowcher.framework.base.DriverContext;
 import com.wowcher.framework.base.FrameworkInitialize;
+import com.wowcher.framework.config.ConfigReader;
+import com.wowcher.framework.config.Settings;
+import com.wowcher.framework.pages.HomePage;
+import com.wowcher.framework.pages.LoginPage;
 import com.wowcher.framework.utilities.DatabaseUtil;
 import com.wowcher.framework.utilities.ExcelUtil;
 import com.wowcher.framework.utilities.LogUtil;
-import com.wowcher.framework.pages.HomePage;
-import com.wowcher.framework.pages.LoginPage;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -20,24 +22,22 @@ public class LoginTest extends FrameworkInitialize {
     @Before
     public void Initialize() throws Exception {
 
-        String connectionUrl = "jdbc:oracle:thin:@dev02-daily-deals.cs40xjobaadv.eu-west-1.rds.amazonaws.com:1521:ANONDB";
-        String userName = "northcliffe";
-        String password="wlJEUu81We34";
 
-        Connection conn = DatabaseUtil.Open(connectionUrl, userName, password);
+        ConfigReader.PopulateSettings();
+
+        Connection conn = DatabaseUtil.Open(Settings.dev02DBConnectionString, Settings.dbUserName, Settings.dbPassword);
 
         DatabaseUtil.ExecuteQuery("select * from ORDER_LINE where product_order_id=25979200", conn);
 
 
         LogUtil logUtil = new LogUtil();
         logUtil.CreateLogFile();
-        logUtil.Write("FrameWork initializer");
-
-        InitalizeBrowser(BrowserType.Firefox);
-        DriverContext.Browser.GoToUrl("http://eaapp.somee.com/");
+        logUtil.Write("FrameWork initializers,ddjskldjskjdksjdkl");
+        InitalizeBrowser(Settings.BrowserType);
+        DriverContext.Browser.GoToUrl(Settings.AUT);
 
         try {
-            ExcelUtil util = new ExcelUtil("target/data/data.xls");
+            ExcelUtil util = new ExcelUtil(Settings.excelSheetPath);
         }
         catch (Exception e)
         {

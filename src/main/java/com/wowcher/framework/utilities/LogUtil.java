@@ -1,5 +1,7 @@
 package com.wowcher.framework.utilities;
 
+import com.wowcher.framework.config.Settings;
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -19,7 +21,7 @@ public class LogUtil {
     //Create log file
     public void CreateLogFile() throws IOException {
         try {
-            File dir = new File("target/logs");
+            File dir = new File(Settings.logPath);
             if (!dir.exists())
                 dir.mkdir();
             //Create file

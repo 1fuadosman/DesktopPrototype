@@ -1,5 +1,7 @@
 package com.wowcher.framework.utilities;
 
+import com.wowcher.framework.config.Settings;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
@@ -8,7 +10,7 @@ import java.sql.Statement;
 public class DatabaseUtil {
 
     public static Connection Open(String connectionString,String userName, String password) throws Exception {
-            Class.forName("oracle.jdbc.driver.OracleDriver");
+            Class.forName(Settings.dbDriverType);
             return DriverManager.getConnection(connectionString, userName, password);
     }
 

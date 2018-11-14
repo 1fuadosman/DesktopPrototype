@@ -1,9 +1,8 @@
 package com.wowcher.framework.config;
 
-import java.sql.Connection;
+import com.wowcher.framework.base.BrowserType;
 
-public class Settings
-{
+public class Settings {
 
     //dev02 db connection string
     public static String dev02DBConnectionString;
@@ -17,6 +16,8 @@ public class Settings
     public static String excelSheetPath;
     //database driver type
     public static String dbDriverType;
-
-
+    //stores the application under test URL
+    public static String AUT;
+    //Store browser type
+    public static BrowserType BrowserType;
 }
