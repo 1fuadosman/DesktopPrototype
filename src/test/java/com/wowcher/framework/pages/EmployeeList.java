@@ -11,4 +11,5 @@ public class EmployeeList extends BasePage {
 
     @FindBy(how = How.CSS, using = "[class*='btn-primary']")
     public WebElement btnCreate;
+
 }
