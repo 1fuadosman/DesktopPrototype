@@ -1,6 +1,7 @@
 package com.wowcher.framework.seleniumtest;
 
 
+import com.wowcher.framework.config.Settings;
 import com.wowcher.framework.pages.HomePage;
 import com.wowcher.framework.pages.LoginPage;
 import com.wowcher.framework.utilities.ExcelUtil;

@@ -2,20 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdcaa2c1-eaee-44f7-a248-791b148bfc2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/TestInitialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wowcher/framework/features/Login.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wowcher/framework/config/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wowcher/framework/config/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wowcher/framework/config/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wowcher/framework/config/Settings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/EmployeeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/EmployeeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wowcher/framework/utilities/LogUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wowcher/framework/utilities/LogUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/GlobalConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/GlobalConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/TestInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/TestInitialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/Browser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/Browser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/BrowserType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/BrowserType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/DriverContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/DriverContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/FrameworkInitialize$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/FrameworkInitialize$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/FrameworkInitialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/base/FrameworkInitialize.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/config/ConfigReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/config/ConfigReader.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/config/Settings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/config/Settings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/logs/14112018171163.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/logs/14112018171167.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/GlobalConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/GlobalConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/utilities/CucumberUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/utilities/CucumberUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/utilities/DatabaseUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/utilities/DatabaseUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/utilities/ExcelUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/utilities/ExcelUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/utilities/LogUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/utilities/LogUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wowcher/framework/utilities/ReportingUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wowcher/framework/utilities/ReportingUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/logs/15112018161127.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/logs/15112018171120.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/logs/15112018171122.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/logs/15112018171193.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/pages/EmployeeList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/pages/EmployeeList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/pages/LoginPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/seleniumtest/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/seleniumtest/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/seleniumtest/TestInitialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/seleniumtest/TestInitialize.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +55,9 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="8" />
-          <entry key="java" value="99" />
-          <entry key="log" value="4" />
+          <entry key="feature" value="1" />
+          <entry key="java" value="108" />
+          <entry key="log" value="33" />
           <entry key="properties" value="10" />
           <entry key="xml" value="3" />
         </counts>
@@ -49,21 +65,24 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="8" />
-          <entry key="JAVA" value="99" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Cucumber" value="1" />
+          <entry key="JAVA" value="108" />
+          <entry key="PLAIN_TEXT" value="33" />
           <entry key="Properties" value="10" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1984" />
+          <entry key="feature" value="432" />
+          <entry key="java" value="2244" />
           <entry key="properties" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1984" />
+          <entry key="Cucumber" value="432" />
+          <entry key="JAVA" value="2244" />
           <entry key="Properties" value="115" />
         </counts>
       </usages-collector>
@@ -71,11 +90,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/logs/21-11-2018:10:45:25.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="270">
+              <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,55 +112,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/config/ConfigReader.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/DriverContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="53" lean-forward="true" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/EmployeeList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/BrowserType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/utilities/DatabaseUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/FrameworkInitialize.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="16" column="46" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/utilities/LogUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,8 +144,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/TestInitialize.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="539">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,31 +154,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/config/Settings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/FrameworkInitialize.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/Browser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/GlobalConfig.properties">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/BasePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="30">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/features/Login.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/Base.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -205,14 +212,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wowcher/framework/config/GlobalConfig.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/GlobalConfig.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/wowcher/framework/utilities/DatabaseUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wowcher/framework/utilities/LogUtil.java" />
         <option value="$PROJECT_DIR$/src/test/resources/GlobalConfig.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/wowcher/framework/config/ConfigReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wowcher/framework/config/Settings.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/TestInitialize.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/EmployeeList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/TestInitialize.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/FrameworkInitialize.java" />
+        <option value="$PROJECT_DIR$/target/logs/21282018102822.log" />
+        <option value="$PROJECT_DIR$/target/logs/21112018103933.log" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wowcher/framework/utilities/LogUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wowcher/framework/features/Login.feature" />
       </list>
     </option>
   </component>
@@ -223,9 +235,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="758" />
-    <option name="y" value="80" />
-    <option name="width" value="1492" />
+    <option name="x" value="215" />
+    <option name="y" value="140" />
+    <option name="width" value="1778" />
     <option name="height" value="1220" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -234,6 +246,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -322,6 +336,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -345,18 +368,28 @@
               <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542302424175" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542797705890" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -366,15 +399,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/com/wowcher/framework/config" />
       <recent name="$PROJECT_DIR$/target/jars" />
       <recent name="$PROJECT_DIR$/target/data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -435,39 +468,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest - 2018.11.15 at 16h 23m 27s.xml">
+    <history-entry file="LoginTest - 2018.11.21 at 10h 33m 13s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.11.15 at 16h 33m 55s.xml">
+    <history-entry file="LoginTest - 2018.11.21 at 10h 34m 13s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.11.15 at 16h 35m 30s.xml">
+    <history-entry file="LoginTest - 2018.11.21 at 10h 35m 54s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.11.15 at 16h 38m 42s.xml">
+    <history-entry file="LoginTest - 2018.11.21 at 10h 37m 12s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.11.15 at 16h 41m 04s.xml">
+    <history-entry file="LoginTest - 2018.11.21 at 10h 38m 23s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.11.15 at 16h 41m 46s.xml">
+    <history-entry file="LoginTest - 2018.11.21 at 10h 39m 42s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.11.15 at 16h 45m 00s.xml">
+    <history-entry file="LoginTest - 2018.11.21 at 10h 41m 17s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.11.15 at 16h 51m 58s.xml">
+    <history-entry file="LoginTest - 2018.11.21 at 10h 43m 24s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.11.15 at 17h 06m 01s.xml">
+    <history-entry file="LoginTest - 2018.11.21 at 10h 44m 20s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.11.15 at 17h 09m 39s.xml">
+    <history-entry file="LoginTest - 2018.11.21 at 10h 45m 32s.xml">
       <configuration name="LoginTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36123000" />
+    <option name="totallyTimeSpent" value="39542000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -479,10 +512,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="758" y="80" width="1492" height="1220" extended-state="0" />
+    <frame x="215" y="140" width="1778" height="1220" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3089655" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26843318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -543,71 +576,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/target/logs/13112018141150.log" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="2215" column="24" selection-start-line="2215" selection-start-column="24" selection-end-line="2215" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Properties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-447">
-          <caret line="138" column="11" selection-start-line="138" selection-start-column="11" selection-end-line="138" selection-end-column="11" />
-          <folding>
-            <element signature="e#4787#4788#0" expanded="true" />
-            <element signature="e#4813#4814#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="202" selection-start-line="202" selection-end-line="202" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/GlobalConfig.properties" />
-    <entry file="file://$PROJECT_DIR$/target/logs/14112018171144.log" />
-    <entry file="file://$PROJECT_DIR$/target/logs/14112018171131.log" />
-    <entry file="file://$PROJECT_DIR$/target/logs/14112018171118.log" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/FindBy.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -636,55 +604,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/DriverContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/BrowserType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/Browser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/utilities/ExcelUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="38" column="68" lean-forward="true" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="38" column="68" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -695,17 +618,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/FrameworkInitialize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/GlobalConfig.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -726,19 +642,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/config/Settings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="240">
           <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -756,20 +662,135 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/utilities/LogUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/config/Settings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        <state relative-caret-position="420">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/TestInitialize.java">
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018091174.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/16112018141154.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018101167.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018101168.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018101149.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018101141.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018101139.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018101107.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018101162.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018101142.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018101137.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018101197.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21262018102618.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21292018102956.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21282018102822.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21272018102759.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21272018102727.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21312018103134.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21332018103302.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21342018103405.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018103547.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018103704.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018103815.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018103933.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21112018104108.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21-11-2018:10:43:16.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21-11-2018:10:44:13.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/utilities/LogUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -778,11 +799,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="270">
+          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/seleniumtest/TestInitialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/21-11-2018:10:45:25.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/Browser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/BrowserType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/DriverContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/FrameworkInitialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wowcher/framework/base/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wowcher/framework/features/Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
         </state>
       </provider>
     </entry>

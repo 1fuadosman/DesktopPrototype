@@ -30,7 +30,7 @@ public class TestInitialize extends FrameworkInitialize {
 
         Settings.Logs.Write("Test Cycle Created");
         InitalizeBrowser(Settings.BrowserType);
-        Settings.Logs.Write("Browser Initialiazed");
+        Settings.Logs.Write("Browser Initialized");
         DriverContext.Browser.GoToUrl(Settings.AUT);
         Settings.Logs.Write("Navigated to URL " + Settings.AUT);
 
