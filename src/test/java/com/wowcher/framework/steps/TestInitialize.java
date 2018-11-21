@@ -1,4 +1,4 @@
-package com.wowcher.framework.seleniumtest;
+package com.wowcher.framework.steps;
 
 import com.wowcher.framework.base.DriverContext;
 import com.wowcher.framework.base.FrameworkInitialize;
@@ -7,7 +7,8 @@ import com.wowcher.framework.config.Settings;
 import com.wowcher.framework.utilities.DatabaseUtil;
 import com.wowcher.framework.utilities.ExcelUtil;
 import com.wowcher.framework.utilities.LogUtil;
-import org.junit.Before;
+import cucumber.api.java.Before;
+
 
 public class TestInitialize extends FrameworkInitialize {
 

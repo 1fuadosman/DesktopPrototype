@@ -16,10 +16,24 @@ public class HomePage extends BasePage {
     @FindBy(how = How.LINK_TEXT, using = "Employee List")
     public WebElement lnkEmployeeList;
 
+    @FindBy(how = How.XPATH, using = "//a[@title='Manage']")
+    public WebElement lnkUserName;
+
+
     public LoginPage ClickLogin() {
         lnkLogin.click();
         return GetInstance(LoginPage.class);
 
+    }
+
+    public boolean IsLogin()
+    {
+        return lnkLogin.isDisplayed();
+    }
+
+    public String GetLoggedInUser()
+    {
+        return lnkUserName.getText();
     }
 
 }

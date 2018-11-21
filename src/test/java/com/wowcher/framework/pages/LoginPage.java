@@ -18,10 +18,14 @@ public class LoginPage extends BasePage{
     @FindBy(how = How.CSS, using = "[class*='btn-default']")
     public WebElement btnLogin;
 
-    public BasePage Login(String userName, String password){
+    public void Login(String userName, String password){
         txtUserName.sendKeys(userName);
         txtPassword.sendKeys(password);
+    }
+
+    public HomePage ClickLogin(){
         btnLogin.submit();
         return GetInstance(HomePage.class);
     }
+
 }
