@@ -1,6 +1,7 @@
 package com.wowcher.framework.steps;
 
 import com.wowcher.framework.base.Base;
+import com.wowcher.framework.config.Settings;
 import com.wowcher.framework.pages.HomePage;
 import com.wowcher.framework.pages.LoginPage;
 import cucumber.api.DataTable;
@@ -29,17 +30,20 @@ public class LoginSteps extends Base{
     @And("^I enter UserName and Password$")
     public void iEnterUserNameAndPassword(DataTable data) throws Throwable {
         List<List<String >> table = data.raw();
-        CurrentPage.As(LoginPage.class).Login(table.get(1).get(0).toString(), table.get(1).get(1).toString());
+        CurrentPage.As(LoginPage.class).Login(table.get(1).get(0), table.get(1).get(1));
+        Settings.Logs.Write("Populate username and password");
     }
 
     @Then("^I click login button$")
     public void iClickLoginButton() throws Throwable {
         CurrentPage = CurrentPage.As(LoginPage.class).ClickLogin();
-    }
+        Settings.Logs.Write("Click login");
 
+    }
 
     @And("^I should see the username with hello$")
     public void iShouldSeeTheUsernameWithHello() throws Throwable {
         Assert.assertEquals("***The user is not admin***", "Hello admin!", CurrentPage.As(HomePage.class).GetLoggedInUser());
+        Settings.Logs.Write("Asserts Hello World");
     }
 }
