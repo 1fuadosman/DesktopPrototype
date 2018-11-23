@@ -11,7 +11,7 @@ Feature: Employee
     Then I click login button
     And I should see the username with hello
     And I click employeeLIst link
-    Then I click createnew button
+    Then I click create new button
     And I enter following details
       | Name     | Salary | DurationWorked | Grade | Email                   |
       | AutoUser | 4000   | 30             | 1     | fuadwowcherls@gmail.com |

@@ -1,31 +1,35 @@
 package com.wowcher.framework.steps;
 
+import com.wowcher.framework.base.Base;
+import com.wowcher.framework.pages.EmployeeCreatePage;
+import com.wowcher.framework.pages.EmployeeListPage;
+import com.wowcher.framework.pages.HomePage;
+import cucumber.api.DataTable;
 import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Then;
 
-public class EmployeeSteps {
+import java.util.List;
+
+public class EmployeeSteps extends Base {
     @And("^I click employeeLIst link$")
     public void iClickEmployeeLIstLink() throws Throwable {
-        // Write code here that turns the phrase above into concrete actions
-        throw new PendingException();
+        CurrentPage = CurrentPage.As(HomePage.class).ClickEmployeeList();
     }
 
-    @Then("^I click createnew button$")
+    @Then("^I click create new button$")
     public void iClickCreatenewButton() throws Throwable {
-        // Write code here that turns the phrase above into concrete actions
-        throw new PendingException();
+        CurrentPage = CurrentPage.As(EmployeeListPage.class).ClickEmployeeList();
     }
 
     @And("^I enter following details$")
-    public void iEnterFollowingDetails() throws Throwable {
-        // Write code here that turns the phrase above into concrete actions
-        throw new PendingException();
+    public void iEnterFollowingDetails(DataTable data) throws Throwable {
+        List<List<String >> table = data.raw();
+        CurrentPage.As(EmployeeCreatePage.class).CreateEmployee(table.get(1).get(0), table.get(1).get(1), table.get(1).get(2), table.get(1).get(3), table.get(1).get(4));
     }
 
     @And("^I click create button$")
     public void iClickCreateButton() throws Throwable {
-        // Write code here that turns the phrase above into concrete actions
-        throw new PendingException();
+        CurrentPage = CurrentPage.As(EmployeeCreatePage.class).ClickCreate();
     }
 }

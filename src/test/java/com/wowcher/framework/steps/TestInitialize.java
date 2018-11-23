@@ -25,9 +25,9 @@ public class TestInitialize extends FrameworkInitialize {
         Settings.Logs.Write("FrameWork initializer");
 
 
-        Settings.dev02DBConnectionString = DatabaseUtil.Open(Settings.dev02DBUrl, Settings.dbUserName, Settings.dbPassword);
+        //Settings.dev02DBConnectionString = DatabaseUtil.Open(Settings.dev02DBUrl, Settings.dbUserName, Settings.dbPassword);
 
-        DatabaseUtil.ExecuteQuery("select * from ORDER_LINE where product_order_id=25979200", Settings.dev02DBConnectionString);
+        //DatabaseUtil.ExecuteQuery("select * from ORDER_LINE where product_order_id=25979200", Settings.dev02DBConnectionString);
 
         Settings.Logs.Write("Test Cycle Created");
         InitalizeBrowser(Settings.BrowserType);

@@ -1,7 +1,6 @@
 package com.wowcher.framework.pages;
 
 import com.wowcher.framework.base.BasePage;
-import com.wowcher.framework.config.Settings;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
@@ -20,6 +19,7 @@ public class HomePage extends BasePage {
     public WebElement lnkUserName;
 
 
+
     public LoginPage ClickLogin() {
         lnkLogin.click();
         return GetInstance(LoginPage.class);
@@ -34,6 +34,11 @@ public class HomePage extends BasePage {
     public String GetLoggedInUser()
     {
         return lnkUserName.getText();
+    }
+
+    public EmployeeListPage ClickEmployeeList() {
+        lnkEmployeeList.click();
+        return GetInstance(EmployeeListPage.class);
     }
 
 }
