@@ -5,6 +5,7 @@ import com.wowcher.framework.pages.EmployeeCreatePage;
 import com.wowcher.framework.pages.EmployeeListPage;
 import com.wowcher.framework.pages.HomePage;
 import com.wowcher.framework.utilities.CucumberUtil;
+import com.wowcher.framework.utilities.EmailGeneratorUtil;
 import cucumber.api.DataTable;
 import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
@@ -30,7 +31,7 @@ public class EmployeeSteps extends Base {
 
         CucumberUtil.convertDataTableToDict(table);
         CurrentPage.As(EmployeeCreatePage.class).CreateEmployee(CucumberUtil.getCellValue("Name"), CucumberUtil.getCellValue("Salary"),
-                CucumberUtil.getCellValue("DurationWorked"), CucumberUtil.getCellValue("Grade"),CucumberUtil.getCellValue("Email"));
+                CucumberUtil.getCellValue("DurationWorked"), CucumberUtil.getCellValue("Grade"), EmailGeneratorUtil.generateEmail());
 
 
 
