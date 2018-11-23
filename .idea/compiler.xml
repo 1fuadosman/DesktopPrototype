@@ -9,5 +9,8 @@
         <module name="DesktopPrototype" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DesktopPrototype" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
