@@ -56,7 +56,7 @@
         <counts>
           <entry key="dummy" value="4" />
           <entry key="feature" value="1055" />
-          <entry key="java" value="5283" />
+          <entry key="java" value="5443" />
           <entry key="properties" value="128" />
           <entry key="xml" value="405" />
         </counts>
@@ -64,7 +64,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Cucumber" value="1055" />
-          <entry key="JAVA" value="5283" />
+          <entry key="JAVA" value="5443" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="128" />
           <entry key="XML" value="405" />
@@ -89,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="52" column="44" lean-forward="true" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+            <state relative-caret-position="840">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#866#867#0" expanded="true" />
@@ -422,7 +422,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543242129660" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543242245134" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -621,14 +621,11 @@
       <workItem from="1543231662422" duration="146000" />
       <workItem from="1543231812591" duration="876000" />
       <workItem from="1543232698306" duration="2766000" />
-      <workItem from="1543236822025" duration="3976000" />
+      <workItem from="1543236822025" duration="4281000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 13h 49m 14s.xml">
-      <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 13h 50m 20s.xml">
       <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
@@ -656,9 +653,12 @@
     <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 14h 09m 27s.xml">
       <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_fuad_osman_repos_DesktopPrototype_src_test_java_com_prototype_framework_TestNg_xml - 2018.11.26 at 14h 21m 42s.xml">
+      <configuration name="/Users/fuad.osman/repos/DesktopPrototype/src/test/java/com/prototype/framework/TestNg.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81328000" />
+    <option name="totallyTimeSpent" value="81633000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -671,7 +671,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1333" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22875299" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -682,12 +681,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41954023" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41954023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3998358" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26436782" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26436782" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32922825" />
@@ -1006,8 +1005,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="52" column="44" lean-forward="true" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+        <state relative-caret-position="840">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#866#867#0" expanded="true" />
