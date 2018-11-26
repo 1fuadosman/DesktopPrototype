@@ -2,7 +2,9 @@ package com.prototype.framework.config;
 
 import com.prototype.framework.base.BrowserType;
 
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.Properties;
 
 public class ConfigReader {
@@ -16,7 +18,9 @@ public class ConfigReader {
     private void ReadProperty() throws IOException {
 
         Properties p = new Properties();
-        p.load(Thread.currentThread().getContextClassLoader().getResourceAsStream("GlobalConfig.properties"));
+        InputStream inputStream = new FileInputStream("src/test/resources/GlobalConfig.properties");
+        p.load(inputStream);
+       // p.load(Thread.currentThread().getContextClassLoader().getResourceAsStream("GlobalConfig.properties"));
         Settings.dev02DBUrl = p.getProperty("dev02DBUrl");
         Settings.dbUserName = p.getProperty("dbUserName");
         Settings.dbPassword = p.getProperty("dbPassword");

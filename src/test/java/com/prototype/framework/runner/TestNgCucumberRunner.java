@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 
-@CucumberOptions(features = {"src/test/java/com/prototype/framework/features/"}, glue = {"com/prototype/framework/steps"}, format = {"pretty"})
+@CucumberOptions(features = {"src/test/java/com/prototype/framework/features/"}, glue = {"com/prototype/framework/steps"},format = {"json:target/cucumber-json-report.json", "html:target/cucumber-report-html"})
 public class TestNgCucumberRunner {
 
     private TestNGCucumberRunner testNGCucumberRunner;

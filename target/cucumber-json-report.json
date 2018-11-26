@@ -1,0 +1,284 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12892776764,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TestInitialize.Initialize()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Create Employee with all details",
+        "description": "",
+        "id": "employee;create-employee-with-all-details",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 296253140,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I see application opened",
+            "match": {
+              "location": "LoginSteps.iSeeApplicationOpened()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 849497516,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click login link",
+            "match": {
+              "location": "LoginSteps.iClickLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 98598199,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter UserName and Password",
+            "match": {
+              "location": "LoginSteps.iEnterUserNameAndPassword(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "UserName",
+                  "Password"
+                ],
+                "line": 10
+              },
+              {
+                "cells": [
+                  "admin",
+                  "password"
+                ],
+                "line": 11
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 769232143,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click login button",
+            "match": {
+              "location": "LoginSteps.iClickLoginButton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 33770434,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I should see the username with hello",
+            "match": {
+              "location": "LoginSteps.iShouldSeeTheUsernameWithHello()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 419996381,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click employeeLIst link",
+            "match": {
+              "location": "EmployeeSteps.iClickEmployeeLIstLink()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 517648051,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click create new button",
+            "match": {
+              "location": "EmployeeSteps.iClickCreatenewButton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 209437066,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I enter following details",
+            "match": {
+              "location": "EmployeeSteps.iEnterFollowingDetails(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Name",
+                  "Salary",
+                  "DurationWorked",
+                  "Grade"
+                ],
+                "line": 17
+              },
+              {
+                "cells": [
+                  "AutoUser",
+                  "4000",
+                  "30",
+                  "1"
+                ],
+                "line": 18
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 774399984,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click create button",
+            "match": {
+              "location": "EmployeeSteps.iClickCreateButton()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Employee",
+    "description": "Responsible for verifying benefits, create employee,\nDelete employee and check if the functionality works",
+    "id": "employee",
+    "keyword": "Feature",
+    "uri": "Employee.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12912266706,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TestInitialize.Initialize()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Check Login with correct username and password",
+        "description": "",
+        "id": "loginfeature;check-login-with-correct-username-and-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 399561678,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I see application opened",
+            "match": {
+              "location": "LoginSteps.iSeeApplicationOpened()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 653986890,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click login link",
+            "match": {
+              "location": "LoginSteps.iClickLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 95329782,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter UserName and Password",
+            "match": {
+              "location": "LoginSteps.iEnterUserNameAndPassword(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "UserName",
+                  "Password"
+                ],
+                "line": 8
+              },
+              {
+                "cells": [
+                  "admin",
+                  "password"
+                ],
+                "line": 9
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 696931099,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click login button",
+            "match": {
+              "location": "LoginSteps.iClickLoginButton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 36801542,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I should see the username with hello",
+            "match": {
+              "location": "LoginSteps.iShouldSeeTheUsernameWithHello()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "LoginFeature",
+    "description": "  This feature is responsible for testing all the scenarios for Login of application",
+    "id": "loginfeature",
+    "keyword": "Feature",
+    "uri": "Login.feature"
+  }
+]
