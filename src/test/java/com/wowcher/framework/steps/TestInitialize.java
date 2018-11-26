@@ -5,6 +5,7 @@ import com.wowcher.framework.base.FrameworkInitialize;
 import com.wowcher.framework.config.ConfigReader;
 import com.wowcher.framework.config.Settings;
 import com.wowcher.framework.utilities.DatabaseUtil;
+import com.wowcher.framework.utilities.EmailGeneratorUtil;
 import com.wowcher.framework.utilities.ExcelUtil;
 import com.wowcher.framework.utilities.LogUtil;
 import cucumber.api.java.Before;

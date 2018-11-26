@@ -13,6 +13,6 @@ Feature: Employee
     And I click employeeLIst link
     Then I click create new button
     And I enter following details
-      | Name     | Salary | DurationWorked | Grade | Email                   |
-      | AutoUser | 4000   | 30             | 1     | fuadwowcherls@gmail.com |
+      | Name     | Salary | DurationWorked | Grade |
+      | AutoUser | 4000   | 30             | 1     |
     And I click create button
