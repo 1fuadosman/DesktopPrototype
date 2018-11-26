@@ -1,7 +1,0 @@
-[23-11-2018:13:12:03]FrameWork initializer
-[23-11-2018:13:12:03]Test Cycle Created
-[23-11-2018:13:12:03]Browser Initialized
-[23-11-2018:13:12:03]Navigated to URL http://eaapp.somee.com/
-[23-11-2018:13:12:03]Populate username and password
-[23-11-2018:13:12:03]Click login
-[23-11-2018:13:12:03]Asserts Hello World
