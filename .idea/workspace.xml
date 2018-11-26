@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdcaa2c1-eaee-44f7-a248-791b148bfc2f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/base/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/base/BrowserType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/BrowserType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/base/DriverContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/DriverContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/base/FrameworkInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/FrameworkInitialize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/config/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/config/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/config/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/config/Settings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/utilities/CucumberUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/utilities/CucumberUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/utilities/DatabaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/utilities/DatabaseUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/utilities/EmailGeneratorUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/utilities/EmailGeneratorUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/utilities/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/utilities/ExcelUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/utilities/LogUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/utilities/LogUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desktopprototype/framework/utilities/ReportingUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/utilities/ReportingUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/features/Employee.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Employee.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/pages/EmployeeCreatePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/EmployeeCreatePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/pages/EmployeeListPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/EmployeeListPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/runner/JUnitTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/JUnitTestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/runner/TestNgCucumberRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/seleniumtest/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/seleniumtest/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/steps/EmployeeSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/EmployeeSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/LoginSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/steps/TestInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/TestInitialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/TestNg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Employee.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Employee.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/prototype/framework/runner/TestNgCucumberRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/prototype/framework/runner/TestNgCucumberRunner.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,91 +15,98 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DesktopPrototype$_Users_fuad_osman_repos_DesktopPrototype_src_test_java_com_prototype_framework_TestNg_xml.ic" NAME="$PROJECT_DIR$/src/test/java/com/prototype/framework/TestNg.xml Coverage Results" MODIFIED="1543235420985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-747878589">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
-          <entry key="project.open.time.0" value="9" />
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.0" value="10" />
           <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="9" />
-          <entry key="feature" value="15" />
-          <entry key="java" value="217" />
+          <entry key="feature" value="17" />
+          <entry key="java" value="229" />
           <entry key="log" value="39" />
           <entry key="properties" value="14" />
-          <entry key="xml" value="8" />
+          <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="9" />
-          <entry key="Cucumber" value="15" />
-          <entry key="JAVA" value="217" />
+          <entry key="Cucumber" value="17" />
+          <entry key="JAVA" value="229" />
           <entry key="PLAIN_TEXT" value="39" />
           <entry key="Properties" value="14" />
-          <entry key="XML" value="8" />
+          <entry key="XML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="feature" value="1007" />
-          <entry key="java" value="4317" />
+          <entry key="feature" value="1055" />
+          <entry key="java" value="5283" />
           <entry key="properties" value="128" />
-          <entry key="xml" value="4" />
+          <entry key="xml" value="405" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Cucumber" value="1007" />
-          <entry key="JAVA" value="4317" />
+          <entry key="Cucumber" value="1055" />
+          <entry key="JAVA" value="5283" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="128" />
-          <entry key="XML" value="4" />
+          <entry key="XML" value="405" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/JUnitTestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="376">
+              <caret line="52" column="44" lean-forward="true" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#866#867#0" expanded="true" />
+                <element signature="e#927#928#0" expanded="true" />
+                <element signature="e#2031#2032#0" expanded="true" />
+                <element signature="e#2075#2076#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/TestInitialize.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/FrameworkInitialize.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/LoginSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="88" />
+            <state relative-caret-position="120">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,15 +127,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/EmployeeCreatePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/EmployeeListPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -159,19 +136,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/EmployeeCreatePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="690">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -179,8 +147,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Employee.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="75">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -188,8 +156,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Login.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="45">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/TestNg.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -209,6 +195,7 @@
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/test/java/com/prototype/framework</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -255,6 +242,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/TestNg.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/runner/TestNgCucumberRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/desktopprototype/framework/runner/JUnitTestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prototype/framework/TestNg.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Employee.feature" />
         <option value="$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java" />
       </list>
     </option>
@@ -284,6 +273,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,6 +304,41 @@
               <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -329,6 +355,24 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
@@ -338,6 +382,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
               <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="seleniumtest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
@@ -360,60 +413,16 @@
               <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="desktopprototype" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="desktopprototype" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543233250367" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543242129660" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -449,22 +458,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestNgCucumberRunner (1)">
+  <component name="RunManager" selected="TestNG./Users/fuad.osman/repos/DesktopPrototype/src/test/java/com/prototype/framework/TestNg.xml">
     <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
       <option name="cucumberJsArguments" value="" />
       <option name="executablePath" />
       <option name="filePath" value="$PROJECT_DIR$/src/test/java/com/wowcher/framework/features/Employee.feature" />
     </configuration>
-    <configuration name="JUnitTestRunner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: Employee" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Employee.feature" />
+      <option name="GLUE" value="com.prototype.framework.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="DesktopPrototype" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Employee" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.desktopprototye.framework.runner.*" />
+          <option name="PATTERN" value="cucumber.api.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.desktopprototye.framework.runner" />
-      <option name="MAIN_CLASS_NAME" value="com.desktopprototye.framework.runner.JUnitTestRunner" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -479,36 +492,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.desktopprototype.framework.runner" />
       <option name="MAIN_CLASS_NAME" value="com.desktopprototype.framework.runner.JUnitTestRunner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNgCucumberRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesktopPrototype" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.desktopprototye.framework.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.desktopprototye.framework.runner" />
-      <option name="MAIN_CLASS_NAME" value="com.desktopprototye.framework.runner.TestNgCucumberRunner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNgCucumberRunner.runTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesktopPrototype" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.desktopprototye.framework.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.desktopprototye.framework.runner" />
-      <option name="MAIN_CLASS_NAME" value="com.desktopprototye.framework.runner.TestNgCucumberRunner" />
-      <option name="METHOD_NAME" value="runTests" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -545,6 +528,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestNgCucumberRunner.runTests" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DesktopPrototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prototype.framework.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prototype.framework.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.prototype.framework.runner.TestNgCucumberRunner" />
+      <option name="METHOD_NAME" value="runTests" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/fuad.osman/repos/DesktopPrototype/src/test/java/com/prototype/framework/TestNg.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DesktopPrototype" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/prototype/framework/TestNg.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Login.feature" type="cucumber.js" factoryName="Cucumber.js">
       <option name="cucumberJsArguments" value="" />
       <option name="executablePath" />
@@ -552,19 +563,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.TestNgCucumberRunner" />
-      <item itemvalue="JUnit.JUnitTestRunner (1)" />
-      <item itemvalue="JUnit.TestNgCucumberRunner.runTests" />
-      <item itemvalue="JUnit.TestNgCucumberRunner" />
       <item itemvalue="JUnit.JUnitTestRunner (2)" />
       <item itemvalue="TestNG.TestNgCucumberRunner (1)" />
+      <item itemvalue="TestNG./Users/fuad.osman/repos/DesktopPrototype/src/test/java/com/prototype/framework/TestNg.xml" />
+      <item itemvalue="TestNG.TestNgCucumberRunner.runTests" />
+      <item itemvalue="Cucumber java.Feature: Employee" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/fuad.osman/repos/DesktopPrototype/src/test/java/com/prototype/framework/TestNg.xml" />
         <item itemvalue="TestNG.TestNgCucumberRunner (1)" />
+        <item itemvalue="Cucumber java.Feature: Employee" />
+        <item itemvalue="TestNG.TestNgCucumberRunner.runTests" />
         <item itemvalue="JUnit.JUnitTestRunner (2)" />
-        <item itemvalue="JUnit.TestNgCucumberRunner" />
-        <item itemvalue="JUnit.JUnitTestRunner (1)" />
-        <item itemvalue="JUnit.TestNgCucumberRunner.runTests" />
       </list>
     </recent_temporary>
   </component>
@@ -609,44 +620,45 @@
       <workItem from="1543231561610" duration="97000" />
       <workItem from="1543231662422" duration="146000" />
       <workItem from="1543231812591" duration="876000" />
-      <workItem from="1543232698306" duration="374000" />
+      <workItem from="1543232698306" duration="2766000" />
+      <workItem from="1543236822025" duration="3976000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestNgCucumberRunner - 2018.11.26 at 11h 33m 12s.xml">
-      <configuration name="TestNgCucumberRunner" configurationId="JUnit" />
+    <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 13h 49m 14s.xml">
+      <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNgCucumberRunner - 2018.11.26 at 11h 34m 07s.xml">
-      <configuration name="TestNgCucumberRunner" configurationId="JUnit" />
+    <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 13h 50m 20s.xml">
+      <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNgCucumberRunner - 2018.11.26 at 11h 34m 21s.xml">
-      <configuration name="TestNgCucumberRunner" configurationId="JUnit" />
+    <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 13h 50m 32s.xml">
+      <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNgCucumberRunner - 2018.11.26 at 11h 34m 33s.xml">
-      <configuration name="TestNgCucumberRunner" configurationId="JUnit" />
+    <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 13h 51m 13s.xml">
+      <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNgCucumberRunner - 2018.11.26 at 11h 35m 16s.xml">
-      <configuration name="TestNgCucumberRunner" configurationId="JUnit" />
+    <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 13h 51m 33s.xml">
+      <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="JUnitTestRunner_(2) - 2018.11.26 at 11h 41m 06s.xml">
-      <configuration name="JUnitTestRunner (2)" configurationId="JUnit" />
+    <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 14h 06m 18s.xml">
+      <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="JUnitTestRunner_(2) - 2018.11.26 at 11h 41m 57s.xml">
-      <configuration name="JUnitTestRunner (2)" configurationId="JUnit" />
+    <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 14h 06m 30s.xml">
+      <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="JUnitTestRunner_(2) - 2018.11.26 at 11h 43m 02s.xml">
-      <configuration name="JUnitTestRunner (2)" configurationId="JUnit" />
+    <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 14h 06m 52s.xml">
+      <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNgCucumberRunner - 2018.11.26 at 11h 44m 41s.xml">
-      <configuration name="TestNgCucumberRunner" configurationId="TestNG" />
+    <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 14h 08m 33s.xml">
+      <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestNgCucumberRunner - 2018.11.26 at 11h 46m 28s.xml">
-      <configuration name="TestNgCucumberRunner" configurationId="TestNG" />
+    <history-entry file="TestNgCucumberRunner_(1) - 2018.11.26 at 14h 09m 27s.xml">
+      <configuration name="TestNgCucumberRunner (1)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74960000" />
+    <option name="totallyTimeSpent" value="81328000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -659,8 +671,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1333" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1604448" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22875299" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -669,15 +682,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41954023" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41954023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3998358" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26436782" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26436782" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3292683" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32922825" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -688,6 +701,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32962668" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -721,8 +735,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/target/logs/21112018103704.log" />
-    <entry file="file://$PROJECT_DIR$/target/logs/21112018103815.log" />
     <entry file="file://$PROJECT_DIR$/target/logs/21112018103933.log" />
     <entry file="file://$PROJECT_DIR$/target/logs/21112018104108.log" />
     <entry file="file://$PROJECT_DIR$/target/logs/21-11-2018:10:43:16.log" />
@@ -794,20 +806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/DriverContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -815,27 +813,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/BrowserType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/Browser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/FrameworkInitialize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -896,55 +877,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/JUnitTestRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/LoginSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="480">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/EmployeeCreatePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/EmployeeListPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Login.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Employee.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -958,10 +897,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/LoginSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/BasePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="88" />
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/BrowserType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/FrameworkInitialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -978,12 +959,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/EmployeeListPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/pages/EmployeeCreatePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/JUnitTestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/TestNg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Employee.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="52" column="44" lean-forward="true" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+            <element signature="e#2031#2032#0" expanded="true" />
+            <element signature="e#2075#2076#0" expanded="true" />
           </folding>
         </state>
       </provider>

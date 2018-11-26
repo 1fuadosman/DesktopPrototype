@@ -2,6 +2,7 @@ Feature: Employee
   Responsible for verifying benefits, create employee,
   Delete employee and check if the functionality works
 
+
   Scenario: Create Employee with all details
     Given I see application opened
     When I click login link
@@ -16,3 +17,4 @@ Feature: Employee
       | Name     | Salary | DurationWorked | Grade |
       | AutoUser | 4000   | 30             | 1     |
     And I click create button
+
