@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 14069363278,
+              "duration": 6234598871,
               "status": "passed"
             },
             "match": {
@@ -18,12 +18,23 @@
         "name": "Create Employee with all details",
         "description": "",
         "id": "employee;create-employee-with-all-details",
+        "after": [
+          {
+            "result": {
+              "duration": 200895734,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TestInitialize.complete(Scenario)"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 308736270,
+              "duration": 385944566,
               "status": "passed"
             },
             "line": 7,
@@ -35,7 +46,7 @@
           },
           {
             "result": {
-              "duration": 1112303129,
+              "duration": 568734704,
               "status": "passed"
             },
             "line": 8,
@@ -47,7 +58,7 @@
           },
           {
             "result": {
-              "duration": 96244621,
+              "duration": 283753914,
               "status": "passed"
             },
             "line": 9,
@@ -75,7 +86,7 @@
           },
           {
             "result": {
-              "duration": 758423852,
+              "duration": 792077803,
               "status": "passed"
             },
             "line": 12,
@@ -87,7 +98,7 @@
           },
           {
             "result": {
-              "duration": 17514451,
+              "duration": 37585286,
               "status": "passed"
             },
             "line": 13,
@@ -99,7 +110,7 @@
           },
           {
             "result": {
-              "duration": 409932406,
+              "duration": 120890634,
               "status": "passed"
             },
             "line": 14,
@@ -111,7 +122,7 @@
           },
           {
             "result": {
-              "duration": 671085591,
+              "duration": 2077551431,
               "status": "passed"
             },
             "line": 15,
@@ -123,7 +134,7 @@
           },
           {
             "result": {
-              "duration": 235081394,
+              "duration": 462442008,
               "status": "passed"
             },
             "line": 16,
@@ -155,7 +166,7 @@
           },
           {
             "result": {
-              "duration": 729803753,
+              "duration": 1086086044,
               "status": "passed"
             },
             "line": 19,
@@ -181,7 +192,7 @@
         "before": [
           {
             "result": {
-              "duration": 12425024289,
+              "duration": 3894470043,
               "status": "passed"
             },
             "match": {
@@ -193,12 +204,23 @@
         "name": "Check Login with correct username and password",
         "description": "",
         "id": "loginfeature;check-login-with-correct-username-and-password",
+        "after": [
+          {
+            "result": {
+              "duration": 123312507,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TestInitialize.complete(Scenario)"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 340536092,
+              "duration": 74787953,
               "status": "passed"
             },
             "line": 5,
@@ -210,7 +232,7 @@
           },
           {
             "result": {
-              "duration": 745026853,
+              "duration": 565607219,
               "status": "passed"
             },
             "line": 6,
@@ -222,7 +244,7 @@
           },
           {
             "result": {
-              "duration": 96398280,
+              "duration": 223287272,
               "status": "passed"
             },
             "line": 7,
@@ -250,7 +272,7 @@
           },
           {
             "result": {
-              "duration": 954956561,
+              "duration": 889590038,
               "status": "passed"
             },
             "line": 10,
@@ -262,7 +284,7 @@
           },
           {
             "result": {
-              "duration": 33170945,
+              "duration": 37019098,
               "status": "passed"
             },
             "line": 11,

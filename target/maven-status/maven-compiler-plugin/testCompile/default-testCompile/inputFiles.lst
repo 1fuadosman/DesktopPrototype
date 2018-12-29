@@ -1,4 +1,10 @@
-/Users/fuadosman/repos/UdemyCourse/src/test/java/com/ea/test/pages/EmployeeList.java
-/Users/fuadosman/repos/UdemyCourse/src/test/java/com/ea/test/pages/LoginPage.java
-/Users/fuadosman/repos/UdemyCourse/src/test/java/com/ea/test/seleniumtest/LoginTest.java
-/Users/fuadosman/repos/UdemyCourse/src/test/java/com/ea/test/pages/HomePage.java
+/Users/fuadosman/repos/DesktopPrototype/src/test/java/com/prototype/framework/steps/LoginSteps.java
+/Users/fuadosman/repos/DesktopPrototype/src/test/java/com/prototype/framework/pages/EmployeeListPage.java
+/Users/fuadosman/repos/DesktopPrototype/src/test/java/com/prototype/framework/pages/LoginPage.java
+/Users/fuadosman/repos/DesktopPrototype/src/test/java/com/prototype/framework/steps/TestInitialize.java
+/Users/fuadosman/repos/DesktopPrototype/src/test/java/com/prototype/framework/pages/EmployeeCreatePage.java
+/Users/fuadosman/repos/DesktopPrototype/src/test/java/com/prototype/framework/runner/JUnitTestRunner.java
+/Users/fuadosman/repos/DesktopPrototype/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java
+/Users/fuadosman/repos/DesktopPrototype/src/test/java/com/prototype/framework/steps/EmployeeSteps.java
+/Users/fuadosman/repos/DesktopPrototype/src/test/java/com/prototype/framework/seleniumtest/LoginTest.java
+/Users/fuadosman/repos/DesktopPrototype/src/test/java/com/prototype/framework/pages/HomePage.java

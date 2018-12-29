@@ -6,7 +6,12 @@ import com.prototype.framework.config.ConfigReader;
 import com.prototype.framework.config.Settings;
 import com.prototype.framework.utilities.ExcelUtil;
 import com.prototype.framework.utilities.LogUtil;
+import cucumber.api.Scenario;
+import cucumber.api.java.After;
 import cucumber.api.java.Before;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriverException;
 
 
 public class TestInitialize extends FrameworkInitialize {
@@ -42,5 +47,12 @@ public class TestInitialize extends FrameworkInitialize {
         {
 
         }
+    }
+
+    @After
+    public void complete(Scenario scenario) throws Exception {
+
+        DriverContext.Browser.closeBrowser();
+
     }
 }

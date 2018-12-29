@@ -22,6 +22,10 @@ public class Browser {
         _driver.manage().window().maximize();
     }
 
+    public void closeBrowser() {
+        _driver.close();
+    }
+
 
 
 
