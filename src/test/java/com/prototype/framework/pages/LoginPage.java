@@ -1,6 +1,7 @@
 package com.prototype.framework.pages;
 
 import com.prototype.framework.base.BasePage;
+import com.prototype.framework.base.DriverContext;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
@@ -19,11 +20,13 @@ public class LoginPage extends BasePage{
     public WebElement btnLogin;
 
     public void Login(String userName, String password){
+        DriverContext.waitForElementVisible(txtUserName);
         txtUserName.sendKeys(userName);
         txtPassword.sendKeys(password);
     }
 
     public HomePage ClickLogin(){
+        DriverContext.waitForElementClickable(btnLogin);
         btnLogin.submit();
         return GetInstance(HomePage.class);
     }

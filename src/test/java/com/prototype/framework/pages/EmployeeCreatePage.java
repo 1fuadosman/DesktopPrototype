@@ -1,6 +1,7 @@
 package com.prototype.framework.pages;
 
 import com.prototype.framework.base.BasePage;
+import com.prototype.framework.base.DriverContext;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
@@ -28,6 +29,7 @@ public class EmployeeCreatePage extends BasePage {
     private WebElement btnCreate;
 
     public void CreateEmployee(String name, String salary, String durationWorked, String grade,  String email) {
+        DriverContext.waitForElementVisible(fieldName);
         fieldName.sendKeys(name);
         fieldSalary.sendKeys(salary);
         fieldDuratinoWorked.sendKeys(durationWorked);
@@ -36,6 +38,7 @@ public class EmployeeCreatePage extends BasePage {
     }
 
     public EmployeeListPage ClickCreate() {
+        DriverContext.waitForElementClickable(btnCreate);
         btnCreate.click();
         return GetInstance(EmployeeListPage.class);
     }

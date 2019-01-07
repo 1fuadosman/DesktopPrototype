@@ -47,7 +47,7 @@ public class TestNgCucumberRunner {
 //            //ToDo: Bring the scenario name from Excel sheet or from the properties file
 //            //Pass the hardcoded scenario name
 //            CucumberTagStatement scenarioName = element.next();
-//            if(!scenarioName.getVisualName().equals("Scenario: Create Employee with all details"))
+//            if(!scenarioName.getVisualName().equals("Scenario: Check Login with correct username and password"))
 //            {
 //                element.remove();
 //            }
