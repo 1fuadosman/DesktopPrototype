@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6234598871,
+  "duration": 3834428550,
   "status": "passed"
 });
 formatter.scenario({
@@ -103,67 +103,67 @@ formatter.match({
   "location": "LoginSteps.iSeeApplicationOpened()"
 });
 formatter.result({
-  "duration": 385944566,
+  "duration": 159789201,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.iClickLoginLink()"
 });
 formatter.result({
-  "duration": 568734704,
+  "duration": 476669769,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.iEnterUserNameAndPassword(DataTable)"
 });
 formatter.result({
-  "duration": 283753914,
+  "duration": 242418402,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.iClickLoginButton()"
 });
 formatter.result({
-  "duration": 792077803,
+  "duration": 861704465,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.iShouldSeeTheUsernameWithHello()"
 });
 formatter.result({
-  "duration": 37585286,
+  "duration": 33180910,
   "status": "passed"
 });
 formatter.match({
   "location": "EmployeeSteps.iClickEmployeeLIstLink()"
 });
 formatter.result({
-  "duration": 120890634,
+  "duration": 796899441,
   "status": "passed"
 });
 formatter.match({
   "location": "EmployeeSteps.iClickCreatenewButton()"
 });
 formatter.result({
-  "duration": 2077551431,
+  "duration": 717481542,
   "status": "passed"
 });
 formatter.match({
   "location": "EmployeeSteps.iEnterFollowingDetails(DataTable)"
 });
 formatter.result({
-  "duration": 462442008,
+  "duration": 541101570,
   "status": "passed"
 });
 formatter.match({
   "location": "EmployeeSteps.iClickCreateButton()"
 });
 formatter.result({
-  "duration": 1086086044,
+  "duration": 934592458,
   "status": "passed"
 });
 formatter.after({
-  "duration": 200895734,
+  "duration": 120369497,
   "status": "passed"
 });
 formatter.uri("Login.feature");
@@ -175,7 +175,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 3894470043,
+  "duration": 3025836814,
   "status": "passed"
 });
 formatter.scenario({
@@ -231,39 +231,39 @@ formatter.match({
   "location": "LoginSteps.iSeeApplicationOpened()"
 });
 formatter.result({
-  "duration": 74787953,
+  "duration": 50110580,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.iClickLoginLink()"
 });
 formatter.result({
-  "duration": 565607219,
+  "duration": 528098913,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.iEnterUserNameAndPassword(DataTable)"
 });
 formatter.result({
-  "duration": 223287272,
+  "duration": 239545227,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.iClickLoginButton()"
 });
 formatter.result({
-  "duration": 889590038,
+  "duration": 674312482,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSteps.iShouldSeeTheUsernameWithHello()"
 });
 formatter.result({
-  "duration": 37019098,
+  "duration": 34806444,
   "status": "passed"
 });
 formatter.after({
-  "duration": 123312507,
+  "duration": 117677885,
   "status": "passed"
 });
 });

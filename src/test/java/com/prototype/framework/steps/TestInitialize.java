@@ -37,6 +37,7 @@ public class TestInitialize extends FrameworkInitialize {
         InitalizeBrowser(Settings.BrowserType);
         Settings.Logs.Write("Browser Initialized");
         DriverContext.Browser.GoToUrl(Settings.AUT);
+        DriverContext.Browser.Maximize();
         Settings.Logs.Write("Navigated to URL " + Settings.AUT);
 
 

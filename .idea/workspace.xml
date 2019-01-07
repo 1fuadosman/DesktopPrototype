@@ -1,166 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da1d33f7-9000-4874-bbfa-a2db4afed744" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/UdemyCourse-1.0-SNAPSHOT.jar" afterPath="" />
+    <list default="true" id="3d4fad3c-6c20-4c53-9a60-17fa8394aade" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/webDrivers/chromedriver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/webDrivers/chromedriver" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/prototype/framework/seleniumtest/LoginTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/DesktopPrototype-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/css/cucumber.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/images/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/Chart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/jquery.tablesorter.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-failures.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-steps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-tags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/report-feature_Employee-feature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/report-feature_Login-feature.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/formatter.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/index.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/jquery-1.8.2.min.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report-html/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/data/data.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jars/ojdbc8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:17:07:38.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:17:07:58.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:21:15:30.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:21:17:33.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:21:18:01.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:22:09:20.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:22:10:44.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:22:11:09.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:22:14:07.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:22:20:01.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:22:46:42.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:02:21.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:03:04.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:04:45.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:05:14.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:06:42.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:07:03.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:07:20.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:07:47.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:12:08.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:14:51.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:17:25.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:19:30.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:20:04.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:20:39.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:21:31.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:22:48.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:23:27.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:23:52.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:27:28.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:27:55.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:28:19.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:30:11.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/23-11-2018:23:39:48.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/24-11-2018:08:38:31.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/24-11-2018:08:39:02.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/24-11-2018:09:06:49.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/24-11-2018:09:07:03.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/24-11-2018:09:07:41.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/24-11-2018:09:07:50.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/24-11-2018:09:08:04.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/24-11-2018:09:08:14.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/24-11-2018:09:09:17.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/24-11-2018:09:09:39.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/24-11-2018:09:09:48.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:31:59.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:32:15.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:32:38.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:32:47.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:33:20.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:33:31.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:33:52.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:34:03.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:36:22.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:36:33.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:37:54.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/25-11-2018:17:38:05.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:08:42:08.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:08:42:33.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:28:43.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:29:02.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:34:38.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:34:52.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:35:16.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:35:27.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:37:23.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:37:36.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:45:11.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:45:26.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:46:24.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:46:34.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:49:05.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:49:18.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:53:19.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:53:33.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:53:58.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:10:54:10.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:11:42:30.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:11:42:50.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:11:44:16.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:11:44:29.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:11:46:05.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:11:46:16.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:11:51:19.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:11:51:35.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:11:55:49.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:11:56:02.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:12:14:06.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:12:14:19.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:12:29:06.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:12:29:21.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:12:30:59.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:12:31:13.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:13:17:36.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:13:17:56.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:13:19:37.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:13:20:10.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:13:20:22.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:13:21:19.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:13:23:52.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:13:24:06.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:13:48:56.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:13:50:06.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:14:06:03.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:14:08:22.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:14:09:14.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:14:21:14.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:14:21:28.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:15:45:48.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:15:46:08.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:13:59.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:14:18.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:23:52.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:24:08.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:26:24.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:26:36.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:28:09.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:28:20.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:32:27.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:32:42.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:48:41.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:16:49:05.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:17:44:31.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:17:44:50.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:17:59:22.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:17:59:39.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:18:10:49.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/26-11-2018:18:11:08.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/29-12-2018:15:12:06.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/logs/29-12-2018:15:12:18.log" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/pages/EmployeeCreatePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/pages/EmployeeListPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/pages/HomePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/pages/LoginPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/runner/JUnitTestRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/seleniumtest/LoginTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/steps/EmployeeSteps.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/steps/LoginSteps.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/wowcher/framework/steps/TestInitialize.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/prototype/framework/base/DriverContext.class" afterPath="$PROJECT_DIR$/target/classes/com/prototype/framework/base/DriverContext.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/prototype/framework/utilities/DatabaseUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/prototype/framework/utilities/DatabaseUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/formatter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/jquery-1.8.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/Surefire test.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/junitreports/TEST-com.prototype.framework.seleniumtest.LoginTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/old/Surefire suite/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/Surefire suite/Surefire test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/Surefire suite/Surefire test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/junitreports/TEST-com.prototype.framework.runner.TestNgCucumberRunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/Surefire test.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/Surefire suite/toc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-native-results/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/prototype/framework/seleniumtest/LoginTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/prototype/framework/base/FrameworkInitialize$1.class" afterPath="$PROJECT_DIR$/target/classes/com/prototype/framework/base/FrameworkInitialize$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/prototype/framework/base/FrameworkInitialize.class" afterPath="$PROJECT_DIR$/target/classes/com/prototype/framework/base/FrameworkInitialize.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/prototype/framework/runner/TestNgCucumberRunner.class" afterPath="$PROJECT_DIR$/target/test-classes/com/prototype/framework/runner/TestNgCucumberRunner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/prototype/framework/steps/TestInitialize.class" afterPath="$PROJECT_DIR$/target/test-classes/com/prototype/framework/steps/TestInitialize.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesktopPrototype.iml" afterPath="$PROJECT_DIR$/DesktopPrototype.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/Browser.java" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/Browser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/FrameworkInitialize.java" afterPath="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/FrameworkInitialize.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/TestInitialize.java" afterPath="$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/TestInitialize.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/GlobalConfig.properties" afterPath="$PROJECT_DIR$/src/test/resources/GlobalConfig.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/cucumber-json-report.json" afterPath="$PROJECT_DIR$/target/cucumber-json-report.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/cucumber-report-html/report.js" afterPath="$PROJECT_DIR$/target/cucumber-report-html/report.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" />
@@ -176,34 +130,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="FrameworkInitialize.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/FrameworkInitialize.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="63" lean-forward="false" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+            <state relative-caret-position="330">
+              <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestInitialize.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/TestInitialize.java">
+      <file leaf-file-name="SafariDriver.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-safari-driver/3.14.0/selenium-safari-driver-3.14.0.jar!/org/openqa/selenium/safari/SafariDriver.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Browser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/Browser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
               <folding>
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -212,14 +156,97 @@
       <file leaf-file-name="DriverContext.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/DriverContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="60">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GlobalConfig.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/GlobalConfig.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Employee.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNgCucumberRunner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestInitialize.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/TestInitialize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="39" column="34" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Browser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/Browser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNg.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/TestNg.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Login.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>log4j2</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -232,10 +259,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/DriverContext.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Employee.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Login.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prototype/framework/seleniumtest/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prototype/framework/TestNg.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/FrameworkInitialize.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/prototype/framework/base/Browser.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/TestInitialize.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/GlobalConfig.properties" />
       </list>
     </option>
   </component>
@@ -252,10 +284,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="850" />
-    <option name="width" value="830" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="86" />
+    <option name="y" value="85" />
+    <option name="width" value="1680" />
+    <option name="height" value="911" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -273,6 +306,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -320,6 +356,21 @@
               <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="webDrivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -336,6 +387,33 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
@@ -345,6 +423,13 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
               <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesktopPrototype" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesktopPrototype" type="b2602c69:ProjectViewProjectNode" />
@@ -361,18 +446,21 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -474,20 +562,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="da1d33f7-9000-4874-bbfa-a2db4afed744" name="Default" comment="" />
-      <created>1546095596662</created>
+      <changelist id="3d4fad3c-6c20-4c53-9a60-17fa8394aade" name="Default" comment="" />
+      <created>1546887970961</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546095596662</updated>
-      <workItem from="1546095600491" duration="764000" />
+      <updated>1546887970961</updated>
+      <workItem from="1546887972421" duration="2736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="764000" />
+    <option name="totallyTimeSpent" value="2736000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="850" y="0" width="830" height="1050" extended-state="0" />
+    <frame x="86" y="85" width="1680" height="911" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -498,11 +586,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24213837" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2753358" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -513,7 +602,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -528,37 +616,112 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Login.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="63" lean-forward="false" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/features/Employee.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/TestNg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/seleniumtest/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/07-01-2019:19:24:10.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/logs/07-01-2019:19:24:21.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-safari-driver/3.14.0/selenium-safari-driver-3.14.0.jar!/org/openqa/selenium/safari/SafariDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/DriverContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="60">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/FrameworkInitialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/runner/TestNgCucumberRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/TestInitialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="39" column="34" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/prototype/framework/base/Browser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
             <element signature="e#428#429#0" expanded="true" />
             <element signature="e#459#460#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prototype/framework/steps/TestInitialize.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/GlobalConfig.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -566,6 +729,30 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -589,6 +776,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DesktopPrototype</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -603,6 +803,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

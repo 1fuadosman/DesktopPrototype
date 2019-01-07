@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="19.108" tests="3" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="14.464" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib"/>
@@ -61,24 +61,6 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="runTests" classname="com.prototype.framework.runner.TestNgCucumberRunner" time="12.323"/>
-  <testcase name="runTests" classname="com.prototype.framework.runner.TestNgCucumberRunner" time="5.817"/>
-  <testcase name="Login on Login(com.prototype.framework.seleniumtest.LoginTest)" classname="com.prototype.framework.seleniumtest.LoginTest" time="0.034">
-    <failure message="Window not found. The browser window may have been closed.&#10;Command duration or timeout: 0 milliseconds" type="org.openqa.selenium.NoSuchWindowException">org.openqa.selenium.NoSuchWindowException: 
-Window not found. The browser window may have been closed.
-Command duration or timeout: 0 milliseconds
-	at com.prototype.framework.seleniumtest.LoginTest.Login(LoginTest.java:19)
-Caused by: org.openqa.selenium.NoSuchWindowException: 
-Window not found. The browser window may have been closed.
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'Fuads-MacBook-Pro.local', ip: '172.17.7.77', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14', java.version: '1.8.0_131'
-Driver info: driver.version: unknown
-</failure>
-    <system-out><![CDATA[
-2 Scenarios (&amp#27;[32m2 passed&amp#27;[0m)
-14 Steps (&amp#27;[32m14 passed&amp#27;[0m)
-0m18.059s
-
-]]></system-out>
-  </testcase>
+  <testcase name="runTests" classname="com.prototype.framework.runner.TestNgCucumberRunner" time="8.805"/>
+  <testcase name="runTests" classname="com.prototype.framework.runner.TestNgCucumberRunner" time="4.682"/>
 </testsuite>

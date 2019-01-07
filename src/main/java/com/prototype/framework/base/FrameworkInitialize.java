@@ -3,6 +3,7 @@ package com.prototype.framework.base;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.safari.SafariDriver;
 
 public class FrameworkInitialize extends Base {
 
@@ -14,6 +15,8 @@ public class FrameworkInitialize extends Base {
         {
             case Chrome:
             {
+                String exePath = this.getClass().getClassLoader().getResource("webDrivers/chromedriver").getPath();
+                System.setProperty("webdriver.chrome.driver", exePath);
                 driver = new ChromeDriver();
                 break;
             }
@@ -29,6 +32,7 @@ public class FrameworkInitialize extends Base {
             }
             case Safari:
             {
+                driver = new SafariDriver();
                 break;
             }
         }
