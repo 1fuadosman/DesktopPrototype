@@ -3,7 +3,7 @@ com/prototype/framework/pages/HomePage.class
 com/prototype/framework/pages/LoginPage.class
 com/prototype/framework/runner/TestNgCucumberRunner.class
 com/prototype/framework/runner/JUnitTestRunner.class
-com/prototype/framework/steps/EmployeeSteps.class
 com/prototype/framework/pages/EmployeeListPage.class
-com/prototype/framework/steps/LoginSteps.class
+com/prototype/framework/steps/EmployeeSteps.class
 com/prototype/framework/pages/EmployeeCreatePage.class
+com/prototype/framework/steps/LoginSteps.class

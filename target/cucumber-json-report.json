@@ -1,184 +1,6 @@
 [
   {
     "line": 1,
-    "elements": [
-      {
-        "before": [
-          {
-            "result": {
-              "duration": 3336293690,
-              "status": "passed"
-            },
-            "match": {
-              "location": "TestInitialize.Initialize()"
-            }
-          }
-        ],
-        "line": 6,
-        "name": "Create Employee with all details",
-        "description": "",
-        "id": "employee;create-employee-with-all-details",
-        "after": [
-          {
-            "result": {
-              "duration": 72759322,
-              "status": "passed"
-            },
-            "match": {
-              "location": "TestInitialize.complete(Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario",
-        "steps": [
-          {
-            "result": {
-              "duration": 187942141,
-              "status": "passed"
-            },
-            "line": 7,
-            "name": "I see application opened",
-            "match": {
-              "location": "LoginSteps.iSeeApplicationOpened()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 78710791,
-              "status": "passed"
-            },
-            "line": 8,
-            "name": "I click login link",
-            "match": {
-              "location": "LoginSteps.iClickLoginLink()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 773530529,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I enter UserName and Password",
-            "match": {
-              "location": "LoginSteps.iEnterUserNameAndPassword(DataTable)"
-            },
-            "rows": [
-              {
-                "cells": [
-                  "UserName",
-                  "Password"
-                ],
-                "line": 10
-              },
-              {
-                "cells": [
-                  "admin",
-                  "password"
-                ],
-                "line": 11
-              }
-            ],
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 73876108,
-              "status": "passed"
-            },
-            "line": 12,
-            "name": "I click login button",
-            "match": {
-              "location": "LoginSteps.iClickLoginButton()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1567977120,
-              "status": "passed"
-            },
-            "line": 13,
-            "name": "I should see the username with hello",
-            "match": {
-              "location": "LoginSteps.iShouldSeeTheUsernameWithHello()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 651081958,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "I click employeeLIst link",
-            "match": {
-              "location": "EmployeeSteps.iClickEmployeeLIstLink()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 73680275,
-              "status": "passed"
-            },
-            "line": 15,
-            "name": "I click create new button",
-            "match": {
-              "location": "EmployeeSteps.iClickCreatenewButton()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 1177258490,
-              "status": "passed"
-            },
-            "line": 16,
-            "name": "I enter following details",
-            "match": {
-              "location": "EmployeeSteps.iEnterFollowingDetails(DataTable)"
-            },
-            "rows": [
-              {
-                "cells": [
-                  "Name",
-                  "Salary",
-                  "DurationWorked",
-                  "Grade"
-                ],
-                "line": 17
-              },
-              {
-                "cells": [
-                  "AutoUser",
-                  "4000",
-                  "30",
-                  "1"
-                ],
-                "line": 18
-              }
-            ],
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 63888952,
-              "status": "passed"
-            },
-            "line": 19,
-            "name": "I click create button",
-            "match": {
-              "location": "EmployeeSteps.iClickCreateButton()"
-            },
-            "keyword": "And "
-          }
-        ]
-      }
-    ],
     "name": "Employee",
     "description": "Responsible for verifying benefits, create employee,\nDelete employee and check if the functionality works",
     "id": "employee",
@@ -192,7 +14,7 @@
         "before": [
           {
             "result": {
-              "duration": 1695812241,
+              "duration": 2106986760,
               "status": "passed"
             },
             "match": {
@@ -207,7 +29,7 @@
         "after": [
           {
             "result": {
-              "duration": 50295768,
+              "duration": 22238368,
               "status": "passed"
             },
             "match": {
@@ -220,7 +42,7 @@
         "steps": [
           {
             "result": {
-              "duration": 46669075,
+              "duration": 117260794,
               "status": "passed"
             },
             "line": 5,
@@ -232,7 +54,7 @@
           },
           {
             "result": {
-              "duration": 62991531,
+              "duration": 53105053,
               "status": "passed"
             },
             "line": 6,
@@ -244,7 +66,7 @@
           },
           {
             "result": {
-              "duration": 744910174,
+              "duration": 738555435,
               "status": "passed"
             },
             "line": 7,
@@ -272,7 +94,7 @@
           },
           {
             "result": {
-              "duration": 51885581,
+              "duration": 40961765,
               "status": "passed"
             },
             "line": 10,
@@ -284,7 +106,7 @@
           },
           {
             "result": {
-              "duration": 2079071023,
+              "duration": 1071503382,
               "status": "passed"
             },
             "line": 11,

@@ -4,6 +4,7 @@ import com.prototype.framework.base.Base;
 import com.prototype.framework.config.Settings;
 import com.prototype.framework.pages.HomePage;
 import com.prototype.framework.pages.LoginPage;
+import com.prototype.framework.utilities.GlobalStorage;
 import cucumber.api.DataTable;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
@@ -45,5 +46,6 @@ public class LoginSteps extends Base{
     public void iShouldSeeTheUsernameWithHello() throws Throwable {
         Assert.assertEquals("***The user is not admin***", "Hello admin!", CurrentPage.As(HomePage.class).GetLoggedInUser());
         Settings.Logs.Write("Asserts Hello World");
+        GlobalStorage.store("Fuad", "Osman");
     }
 }
