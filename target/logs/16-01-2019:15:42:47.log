@@ -1,0 +1,8 @@
+[16-01-2019:15:42:47]FrameWork initializer
+[16-01-2019:15:42:47]Test Cycle Created
+[16-01-2019:15:42:47]Browser Initialized
+[16-01-2019:15:42:47]Navigated to URL http://eaapp.somee.com/
+[16-01-2019:15:42:47]Populate username and password
+[16-01-2019:15:42:47]Click login
+[16-01-2019:15:42:47]Asserts Hello World
+[16-01-2019:15:42:47]Invalid key. The key needs to be a String and contained in the list.

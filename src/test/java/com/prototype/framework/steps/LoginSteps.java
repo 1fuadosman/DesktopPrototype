@@ -46,6 +46,5 @@ public class LoginSteps extends Base{
     public void iShouldSeeTheUsernameWithHello() throws Throwable {
         Assert.assertEquals("***The user is not admin***", "Hello admin!", CurrentPage.As(HomePage.class).GetLoggedInUser());
         Settings.Logs.Write("Asserts Hello World");
-        GlobalStorage.store("Fuad", "Osman");
     }
 }

@@ -1,4 +1,5 @@
 com/prototype/framework/base/FrameworkInitialize.class
+com/prototype/framework/utilities/GlobalStorage.class
 com/prototype/framework/utilities/CucumberUtil$DataCollection.class
 com/prototype/framework/base/BasePage.class
 com/prototype/framework/config/Settings.class
